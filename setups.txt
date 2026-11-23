@@ -1,2 +1,1 @@
 # DS setups - une ligne par paire
-EURUSD | ZONE 1.20000 1.20100 | SL 1.19000 | TP 1.25000 | Z1 1.22000 1.22100
